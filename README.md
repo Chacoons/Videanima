@@ -1,3 +1,3 @@
-# Videanimaof
+# Videanima
 
 https://chacoons.github.io/Videanimaof/
