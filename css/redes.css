@@ -1,0 +1,54 @@
+
+
+
+.cont{
+    margin-top:2rem ;
+    width: 35rem;
+    height: 30rem;
+}
+
+.cont img{
+    width: 25rem;
+    height: 25rem;
+    margin-left: 10rem;
+}
+
+.reds{
+    margin-top: -25rem;
+    margin-left: 50rem;
+}
+
+.reds h1{
+    color: #07396B;
+    font-size: 3rem;
+}
+
+.reds img{
+    width: 4rem;
+    margin-top: 2rem;
+    margin-left: 5.5rem;
+    margin-right: 3rem;
+}
+
+.flotante{
+    width: 10rem;
+    height: 10rem;
+}
+.flotante img {
+    width: 4rem;
+    height: 4rem;
+    margin-left: 55.5rem;
+    margin-top: 2rem;
+    border-radius: 15rem;
+}
+.reds h2{
+    font-size: 15px;
+    margin-left: 10rem;
+    margin-top: -2.5rem;
+}
+.flotante h3{
+    font-size: 15px;
+    margin-left: 60rem;
+    margin-top: -2.5rem; 
+}
+

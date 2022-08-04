@@ -1,0 +1,111 @@
+.contenedor{
+    width: 100%;
+    margin: 0 auto;
+    overflow: hidden;
+}
+header{
+    width:100%;
+    height: 123px;
+    display: flex;
+    justify-content: center
+}
+
+header img{
+    width: 345px;
+    height: 92px;
+}
+
+.directorio{
+    background-color: var(--celeste);
+    width: 100%;
+    height: 45px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.directorio a{
+    color: aliceblue;
+    text-decoration: none;  
+    margin: 0 50px 0 50px;
+   
+}
+.portada img{
+    width: 100%;
+    height: 55.7rem;
+}
+
+.info{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;  
+}
+
+.info div{
+    width: 714px;
+    height: 299px;
+    margin-top: 32px;
+    background-color: rgba(170, 170, 170, 0.15); 
+}
+
+h1{
+    font-size: 18px;
+    font-weight: 600;
+    margin-left: 2rem;
+    margin-top: 2.5rem;
+}
+
+
+.info p{
+    display: flex;
+    justify-content: center;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: justify;
+    margin-left: 8rem;
+    margin-right: 8rem;
+    margin-top: 70px;
+}
+
+.integrantes{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 2.7rem;
+}
+
+.integrantes h1{
+    display: flex;
+    justify-content: center;
+    font-size: 18px;
+    line-height: 21px;
+    margin-bottom: 2rem;
+}
+.integrantes p{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: center;
+}
+.integrantes img{
+    width: 17.1rem;
+    height: 16.5rem;
+    border-radius: 15rem;
+}
+
+.equipo{
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 21px;
+    display: flex;
+    justify-content: center;
+    margin-top: 6.8rem;
+}
+
+.barra{
+    margin-top: 7.8rem;
+    background-color: #07396B;
+    width:100%;
+    height: 4.5rem;
+}
